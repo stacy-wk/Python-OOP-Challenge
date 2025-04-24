@@ -1,12 +1,12 @@
 
-# 🐶 Python OOP Challenge: Digital Pet
+# Python OOP Challenge: Digital Pet
 
 Welcome to this submission for the **Python OOP Digital Pet Challenge**!  
 This project is all about practicing Object-Oriented Programming (OOP) by creating a customizable virtual pet in Python.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project consists of two main Python files:
 
@@ -17,7 +17,7 @@ The virtual pet has a **name**, **hunger**, **energy**, **happiness**, and can e
 
 ---
 
-## 🧠 Features Implemented
+## Features Implemented
 
 1. Customizable pet name  
 2. OOP concepts: Classes, Constructors, Attributes, and Methods  
@@ -31,7 +31,7 @@ The virtual pet has a **name**, **hunger**, **energy**, **happiness**, and can e
 
 ---
 
-## 💻 How to Run the Program
+## How to Run the Program
 
 1. Make sure you have Python installed (version 3.6+).
 2. Clone or download this repository.
